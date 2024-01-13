@@ -2,24 +2,41 @@
 
 # Ankit Kumar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/imankit81/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/imankit1234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imankit81/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github)](https://github.com/imankit1234)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web)](https://[your-portfolio-website-link](https://www.imankit.xyz/))
 
 🚀 Computer Science Undergraduate | MIT World Peace University | GPA: 8.59 🎓
 
 ## Skills
 
 ### Languages and Technologies
-[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-Advanced-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-Intermediate-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus)](https://www.cplusplus.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![C++](https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=cplusplus)](https://www.cplusplus.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-Beginner-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-Intermediate-lightgrey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-Expert-orange?style=for-the-badge&logo=git)](https://git-scm.com/)
+
+...
+
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/React-Intermediate-blue)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-lightgrey)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-yellow)
+
+....
+
+### Tools and Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-Expert-blue)
+![Git](https://img.shields.io/badge/Git-Expert-orange)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Intermediate-brightgreen)
 
 ...
 
@@ -33,19 +50,7 @@
 Feel free to explore my repositories and connect with me!
 
 
-## Projects
 
-### Full-Stack Student Management System
-...
-
-### Crop Classification with Recommendation System
-...
-
-### Vine Quality Prediction Analysis
-...
-
-### Lung Nodule Detection Using UNet and DenseNet
-...
 
 ## Achievements
 - Top 1 percentile in 12th CBSE Board exam.
