@@ -1,12 +1,13 @@
 # Ankit Kumar
 
-# Ankit Kumar
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imankit81/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github)](https://github.com/imankit1234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web)](https://[your-portfolio-website-link](https://www.imankit.xyz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web)](https://imankit.xyz)
 
 🚀 Computer Science Undergraduate | MIT World Peace University | GPA: 8.59 🎓
+
+...
+
 
 ## Skills
 
