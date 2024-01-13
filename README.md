@@ -8,16 +8,19 @@
 ## Skills
 
 ### Languages and Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![Python](https://img.shields.io/badge/Python-Advanced-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-red)
+![Python](https://img.shields.io/badge/Python-Intermediate-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML5-Intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS3-Intermediate-blue)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
+![C++](https://img.shields.io/badge/C++-Advanced-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
 ![Flask](https://img.shields.io/badge/Flask-Intermediate-lightgrey)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue)
 ![Git](https://img.shields.io/badge/Git-Expert-orange)
+
+...
+
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
@@ -28,11 +31,11 @@
 ### Tools and Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-Expert-blue)
 ![Git](https://img.shields.io/badge/Git-Expert-orange)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
+![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Intermediate-brightgreen)
 
 ### Competitive Programming
-![LeetCode](https://img.shields.io/badge/LeetCode-1697-yellow)
+![LeetCode](https://img.shields.io/badge/LeetCode-1854-yellow)
 ![CodeChef](https://img.shields.io/badge/CodeChef-3%20Star%20Coder-blue)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-blue)
 
