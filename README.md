@@ -4,20 +4,21 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/imankit1234)
 
 🚀 Computer Science Undergraduate | MIT World Peace University | GPA: 8.59 🎓
-
 ## Skills
 
 ### Languages and Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-red)
-![Python](https://img.shields.io/badge/Python-Intermediate-brightgreen)
-![HTML](https://img.shields.io/badge/HTML5-Intermediate-orange)
-![CSS](https://img.shields.io/badge/CSS3-Intermediate-blue)
-![C++](https://img.shields.io/badge/C++-Advanced-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)
-![React](https://img.shields.io/badge/React-Intermediate-blue)
-![Flask](https://img.shields.io/badge/Flask-Intermediate-lightgrey)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue)
-![Git](https://img.shields.io/badge/Git-Expert-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-🌐-red?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-🐍-brightgreen?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-🔧-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-🎨-blue?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/C++-🚀-blue?style=flat-square&logo=cplusplus)
+![Node.js](https://img.shields.io/badge/Node.js-🌐-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-⚛️-blue?style=flat-square&logo=react)
+![Flask](https://img.shields.io/badge/Flask-💼-lightgrey?style=flat-square&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-🐬-blue?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/Git-🔗-orange?style=flat-square&logo=git)
+
+...
 
 ...
 
