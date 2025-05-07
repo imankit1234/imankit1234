@@ -4,8 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github)](https://github.com/imankit1234)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web)](https://imankit.xyz)
 
-🚀 Computer Science Undergraduate | MIT World Peace University | GPA: 8.59 🎓
-Building Veyra
+
+Building Veyra.co.in
 
 ...
 
